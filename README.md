@@ -3,7 +3,7 @@
   
   # MediAI: Your AI-Powered Healthcare Companion 🏥
   
-  [![Made with Expo](https://img.shields.io/badge/Made%20with-Expo-blue.svg)](https://expo.dev/)
+  [![Made with Expo](https://img.shields.io/badge/Made%20with-Expo-blue.svg)](https://flutter.dev/)
   [![React Native](https://img.shields.io/badge/React%20Native-v0.76-blue.svg)](https://reactnative.dev/)
   [![Supabase](https://img.shields.io/badge/Supabase-Database-green.svg)](https://supabase.com/)
   [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
